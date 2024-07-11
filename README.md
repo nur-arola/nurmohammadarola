@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nur Mohammad Arola</h1>
 <h3 align="center">A passionate Data Analyst from Philippines</h3>
 <img align="right" alt="coding" width="1080" src="https://cdn-images-1.medium.com/fit/t/1600/480/0*1iIDbLc3Y3q5KRkb.gif">
-- 👨‍💻 All of my projects are available at: **https://nurmohammadarola.github.io/**
+
+- 👨‍💻 All of my projects are available at: https://nurmohammadarola.github.io/
 
 - 📝 I regularly write articles on: [https://medium.com/@nur.arola01](https://medium.com/@nur.arola01)
 
