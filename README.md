@@ -12,7 +12,7 @@
 
 - 📫 How to reach me: **nur.arola01@gmail.com**
 
-- 📄 Download CV: [https://bit.ly/nurmohammadarola](https://bit.ly/nurmohammadarola)
+- 📄 Download CV: [https://drive.google/resume](https://drive.google.com/file/d/1Nm1IAaZ3QqwenptA_ncopJQIWUH0mEGq/view?usp=drivesdk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
